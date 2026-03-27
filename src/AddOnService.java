@@ -15,4 +15,5 @@ public class AddOnService {
     public double getPrice() {
         return price;
     }
+
 }
